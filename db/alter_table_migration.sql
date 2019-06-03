@@ -1,1 +1,1 @@
-ALTER TABLE pokemon ADD hp INTEGER DEFAULT 60;
+Alter Table pokemon ADD hp INTEGER not null default 60;
